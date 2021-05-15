@@ -6,4 +6,4 @@ We detect fake news using the Tfidfvectorizer and PassiveAggressiveClassifier
 Accuracy: 92.98%
 The output label is either REAL or FAKE
 
-Link to the dataset: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
+Link to the dataset: https://drive.google.com/file/d/1qdXs76mY0VHwmzuMsmjgImQHt2ewxDiQ/view?usp=sharing
