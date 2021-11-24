@@ -1,4 +1,4 @@
-# fake-news-detector
+# Youre-Fake-News
 
 This Project detects fake news from a dataset consisting of training examples of a political nature.
 The dataset is of dimensions 7796x4, where we have 7796 training examples and 4 columns
