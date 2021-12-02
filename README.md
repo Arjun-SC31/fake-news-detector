@@ -1,9 +1,11 @@
 # Youre-Fake-News
 
 This Project detects fake news from a dataset consisting of training examples of a political nature.
-The dataset is of dimensions 7796x4, where we have 7796 training examples and 4 columns
+The dataset has 7796 rows and 4 columns. 
 
-We detect fake news using the Tfidfvectorizer and PassiveAggressiveClassifier
+For tokenization of the text into matrix form, the TFID Vectorizer is used.
+The PassiveAggressiveClassifier Model is implemented for the detection of a fake news article
+
 Accuracy: 92.98%
 
 The output label is either REAL or FAKE
